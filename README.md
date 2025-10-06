@@ -44,6 +44,7 @@ while True:
 ## server
 
 <img width="589" height="191" alt="Screenshot 2025-10-06 161840" src="https://github.com/user-attachments/assets/deffbdfe-0ae2-40db-a442-f4cf1642463b" />
+
 ## client 
 
 <img width="660" height="316" alt="Screenshot 2025-10-06 161829" src="https://github.com/user-attachments/assets/b67cf28a-8768-4bae-9ba9-2b9a2fd95cb5" />
